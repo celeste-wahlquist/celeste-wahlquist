@@ -12,7 +12,7 @@ Outside of school and work, I love exploring new ideas and keeping life balanced
 
 Languages: C#, JavaScript, Python, Erlang, Elixir
 
-Web: HTML, CSS, React, Tailwind
+Web: HTML, CSS, React
 
 Other: Unity, Git/GitHub, Agile/Scrum
 
